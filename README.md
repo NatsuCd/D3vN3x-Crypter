@@ -33,6 +33,9 @@ DO NOT UPLOAD TO VIRUSTOTAL!!!
 - AES Encryption
 - Silent
 
+# About ME
+![telegram-icon-6896828_1280](https://github.com/NatsuCd/D3vN3x-Crypter/assets/170551599/216689d3-4770-49f9-a86e-822f8f7d63bf)
+@devnexsecurity
 
 # Detection rate 
 
