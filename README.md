@@ -9,7 +9,7 @@ DO NOT UPLOAD TO VIRUSTOTAL!!!
 
 # Screenshot
 
-![image](https://github.com/NatsuCd/D3vN3x-Crypter/assets/170551599/9f03ffbe-05cd-406a-80b3-4644d7b18de6)
+![ger](https://github.com/user-attachments/assets/ec286fc9-fb2b-4650-9058-81fe66bef9ab)
 
 
 
