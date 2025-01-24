@@ -11,6 +11,7 @@ DO NOT UPLOAD TO VIRUSTOTAL!!!
 
 ![ger](https://github.com/user-attachments/assets/ec286fc9-fb2b-4650-9058-81fe66bef9ab)
 
+![Untitled](https://github.com/user-attachments/assets/43827380-1ef9-4362-b3af-07cc9199e965)
 
 
 ## Updates
@@ -35,7 +36,7 @@ DO NOT UPLOAD TO VIRUSTOTAL!!!
 
 # About Me & Contact
 ![telegram-icon-6896828_1280](https://github.com/NatsuCd/D3vN3x-Crypter/assets/170551599/216689d3-4770-49f9-a86e-822f8f7d63bf)
-@devnexsecurity
+https://t.me/ZeroTraceDeveloper
 
 # Detection rate 
 
