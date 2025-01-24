@@ -1,4 +1,4 @@
-# D3vN3x-Crypter
+# Z3r0 Trace
 Tool to evade Antivirus With Different Techniques
 
 DO NOT UPLOAD TO VIRUSTOTAL!!!
@@ -40,7 +40,7 @@ https://t.me/ZeroTraceDeveloper
 
 # Detection rate 
 
-Total FUD  with Output .JS
+Total FUD
 
  # HINT 
  
@@ -48,7 +48,6 @@ Total FUD  with Output .JS
  
  # YT-VID
  
- https://www.youtube.com/watch?v=rJB_3SuMjX8
  
   ## TODO
 
