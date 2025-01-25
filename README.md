@@ -9,9 +9,9 @@ DO NOT UPLOAD TO VIRUSTOTAL!!!
 
 # Screenshot
 
-![ger](https://github.com/user-attachments/assets/ec286fc9-fb2b-4650-9058-81fe66bef9ab)
+![ger]()
 
-![Untitled](https://github.com/user-attachments/assets/43827380-1ef9-4362-b3af-07cc9199e965)
+![Untitled]()
 
 
 ## Updates
